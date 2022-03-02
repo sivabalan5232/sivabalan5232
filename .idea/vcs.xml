@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/https-bitbucket.org-the_best-awesome_repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sivabalan" vcs="Git" />
   </component>
 </project>
